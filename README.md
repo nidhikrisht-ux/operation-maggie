@@ -1,17 +1,16 @@
 <img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
 
 
-# [Project Name] 🎯
+# [OPERATION MAGGIE] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [NULL CHARACTERS]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Nidhi Krishna T U] - [MUTHOOT INSTITUTE OF TECHNOLOGY AND SCIENCE]
+- Member 2: [Sana Fathima A] - [MUTHOOT INSTITUTE OF TECHNOLOGY AND SCIENCE]
 ### Project Description
 [2-3 lines about what your project does]
 
