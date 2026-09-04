@@ -13,6 +13,7 @@
 - Team Lead: [Name] - [College]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
+<img width="1440" height="1939" alt="me" src="https://github.com/user-attachments/assets/f2e04f9d-0367-4e44-89d4-a5f93f28a9e8" />
 
 ### Project Description
 [2-3 lines about what your project does]
